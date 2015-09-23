@@ -67,7 +67,7 @@ class SlimConfig{
             $transport = new \Swift_SmtpTransport('smtp.zoho.com', 465, 'ssl');
 
             $transport->setUsername('no-reply@brainhub.me');
-            $transport->setPassword('284907Vlad');
+            $transport->setPassword('MariLand12*8');
 
             static::$mailer = \Swift_Mailer::newInstance($transport);
         }
