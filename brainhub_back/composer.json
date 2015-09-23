@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "^2.6",
+		"entomb/slim-json-api": "dev-master",
+        "doctrine/mongodb-odm": "1.0.0-BETA12",
+        "swiftmailer/swiftmailer": "^5.4"
+    },
+	"autoload": {
+        "psr-0": {
+            "BrainHub": "src/"
+        }
+    }
+}

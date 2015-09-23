@@ -1,0 +1,6 @@
+brainhub_back/composer.phar
+brainhub_back/composer.lock
+brainhub_back/vendor
+env/.vagrant
+.idea
+.settings
